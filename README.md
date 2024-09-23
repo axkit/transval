@@ -1,5 +1,10 @@
 # transval - Transition Validator
 
+[![Build Status](https://github.com/axkit/transval/actions/workflows/go.yml/badge.svg)](https://github.com/axkit/transval/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/axkit/transval)](https://goreportcard.com/report/github.com/axkit/transval)
+[![GoDoc](https://pkg.go.dev/badge/github.com/axkit/transval)](https://pkg.go.dev/github.com/axkit/transval)
+[![Coverage Status](https://codecov.io/gh/axkit/transval/branch/main/graph/badge.svg)](https://codecov.io/gh/axkit/transval)
+
 `transval` is a Go package that provides functionality to manage and validate transitions between different states. This can be useful in scenarios like workflow management, state machines, or any system that involves transitioning from one state to another.
 
 ## Features
